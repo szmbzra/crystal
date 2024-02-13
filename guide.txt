@@ -1,0 +1,33 @@
+
+1. Current font is very basic, maybe need to change to KOLLEKTIF, which is one of the brand guideline font, or something else as you feel appropriate. (Landmark Kathmandu reference)
+2. Font color not standing out against page background color. 
+3. Menu Bar Items, change to and only include: HOTEL, ROOMS, DINING, EVENTS, GALLERY (And also in CAPS) (Reference: Hyatt Place website)
+4. Do not overlap menu bar over the photos. Keep it above photo, and expand/shrick it just like Hyatt Place Kathmandu website.
+5. No “Welcome to…” overlapping the Photo. Keep photo clear no text
+6. Replace current hotel intro with the new one below. No need read more.
+7. Next Section: Our Rooms (Then include our 4 room categories). Follow format from Landmark Kathmandu.
+8. Next: Amenities and Services (Include from the list below)
+9. NO NEED OUR SERVICES HEADING, just include; Banner of Kreeti Hall & Kavya Hall with Crystal Events Logo and Banner with Restaurnt Photo & Skydeck Logo
+10. Remove “ all you guides and travl plan “ section
+11. Next Section: Central Location: Include 4 landmarks only (pashupati, TIA, Boushha, Thamel) with distance in ascending order of distance  (all 4 in single row). 
+12. Next section: Guest Review 
+13. OTA
+14. Footer: Include Logos of crystal pashupati, crystal events, skydeck adn trade tower group ALL FOUR. Include Hotel by Trade Tower Group
+
+HOTEL INTRO:
+Welcome to Crystal Pashupati
+Experience tranquility and comfort just steps away from the blessed Pasupatinath Temple. Our cozy rooms, modern facilities, and soothing decor await you for a memorable stay. Conveniently located near the airport, your journey to relaxation begins the moment you arrive.
+
+AMENEITES & SERVICES LIST: (5 on each row, small icons)
+Free Internet AccessFree Parking
+Pasupatinath Aarati Tour
+Air Conditioned Room
+Airport Pickup/Drop
+On-Site Restaurant
+Room Service
+Laundry Services
+Banquet & Event Space
+
+Our team likes the website of Landmark Kathmandu/Pokhara and Hyatt Place Kathmandu very much. Simplistic design language and content. Want similar for crystal pashupati.
+
+So request you to please take Landmark’s website as reference for both homepage, and other inside pages to be built later on.

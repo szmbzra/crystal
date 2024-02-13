@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap");
+@font-face {
+  font-family: kollektif;
+  src: url(/fonts/Kollektif.ttf);
+}
+@font-face {
+  font-family: kollektif-bold;
+  src: url(/fonts/Kollektif-Bold.ttf);
+}
+:root {
+  /* fonts */
+  --font-monstserrat: "Montserrat", sans-serif;
+  --font-league: "League Spartan", sans-serif;
+  --font-kollektif: "kollektif", sans-serif;
+  --font-kollektif-bold: "kollektif-bold", sans-serif;
+  /* colors */
+  --color-red: #c11010;
+  --color-orange: #f55215;
+}
+
+h2 {
+  font-family: var(--font-kollektif-bold);
+  margin-bottom: 20px;
+}
+
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: var(--color-red);
+  position: relative;
+}
+h4::before {
+  content: "";
+  width: 40px;
+  height: 2px;
+  background-color: red;
+  position: absolute;
+  bottom: -13px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+p {
+  font-family: var(--font-monstserrat);
+  font-weight: 500;
+}
+
+.margin_20 {
+  margin-top: 66px;
+}
+
+body {
+  font-family: var(--font-kollektif-bold);
+  background-color: rgba(247, 238, 235, 0.6509803922);
+}
+
+/* book now */
+.book_now {
+  background: var(--color-orange);
+}
+
+/* book now end */
+.our_rooms .rooms__slider .item {
+  height: 500px;
+}
+.our_rooms .rooms__slider .our_rooms_wrapper {
+  height: 370px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.our_rooms .rooms__slider .our_rooms_wrapper img {
+  height: 370px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  transition: all 0.3s ease-in-out;
+}
+.our_rooms .rooms__slider .our_rooms_wrapper img:hover {
+  transform: scale(1.2);
+}
+
+.amenities_services .amenities__icons div[class^=col-md-] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.amenities_services .amenities__icons h5 {
+  margin-top: 20px;
+  font-family: var(--font-league);
+}/*# sourceMappingURL=style.css.map */
