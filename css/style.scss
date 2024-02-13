@@ -103,4 +103,27 @@ h5{
 }
     }
 }
-
+.near_by__attraction{
+    h5{
+        font-family: var(--font-monstserrat);
+    }
+    a{
+        text-decoration: none;
+    }
+}
+.footer{
+    background-color: #000000;
+    padding: 40px 0;
+    color: #ffff;
+    line-height: 2.5;
+    .footer_line_height li{
+        font-family: var(--font-monstserrat);
+    }
+    a{
+        text-decoration: none;
+        &:link{
+            color: #fff;
+        }
+    }
+  
+}

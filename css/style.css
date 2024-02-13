@@ -89,4 +89,27 @@ body {
 .amenities_services .amenities__icons h5 {
   margin-top: 20px;
   font-family: var(--font-league);
+}
+
+.near_by__attraction h5 {
+  font-family: var(--font-monstserrat);
+}
+.near_by__attraction a {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #000000;
+  padding: 40px 0;
+  color: white;
+  line-height: 2.5;
+}
+.footer .footer_line_height li {
+  font-family: var(--font-monstserrat);
+}
+.footer a {
+  text-decoration: none;
+}
+.footer a:link {
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
